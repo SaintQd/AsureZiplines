@@ -1,0 +1,10 @@
+Language: 'ru_ru'
+Ziplines:
+  RequiredItemToUse: 'BOW'
+  MaxLength: 30.0
+  SubpointsPerBlock: 3
+  ArcCoef: 2.5
+  MinArcHeight: 2.0
+  ParticleRadius: 25
+  RequiredMaterial: IRON_CHAIN
+  MaterialAmountPerDistance: 1.0

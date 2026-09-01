@@ -1,0 +1,11 @@
+name: VineriumZiplines
+version: '1.0'
+author: SaintQd
+main: org.saintqd.vineriumziplines.VineriumZiplines
+api-version: 1.21.11
+description: VineriumZiplines Plugin
+dependencies:
+  server:
+    VineriumLib:
+      load: BEFORE
+      required: true
